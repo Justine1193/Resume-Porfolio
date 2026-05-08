@@ -11,8 +11,8 @@ export default function ProjectsSection() {
           <span className="projects-page__title-accent">Projects</span> & builds
         </h2>
         <p className="projects-page__lead">
-          Things I&apos;ve shipped or built for school and practice. Swap in your own repos,
-          demos, and case studies anytime.
+          A collection of projects that reflect my growth in web development, from academic
+          requirements to hands-on personal builds.
         </p>
       </div>
       <ul className="projects-grid">

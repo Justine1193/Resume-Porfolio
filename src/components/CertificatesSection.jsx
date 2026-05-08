@@ -33,8 +33,8 @@ export default function CertificatesSection() {
           <span className="certificates-section__title-accent">Certificates</span> & training
         </h2>
         <p className="certificates-section__lead">
-          Courses, exams, and badges worth highlighting—replace with your real certificates and
-          verification links.
+          Verified certifications and training programs that strengthen my technical foundation
+          and continuous learning journey.
         </p>
       </div>
       <ul className="certificates-grid">
